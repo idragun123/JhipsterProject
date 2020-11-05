@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "by.dragun"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "JhipsterProject",
+    "packageName": "by.dragun",
+    "packageFolder": "by/dragun",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjdkNmQ4ZDM3OWQwMjY4NzlmNGY5NTY2MmU3NjIyMjNjNDNiNDQzN2ZiOTA5ODkyMmQ0MDZlY2I3OGVkNTEwMDU4MmU3M2YyMTJmYjc0ZGY4ZGEwMTI3MmJjMDIxMmNkNjU4MDNlYTFhNGFhYWE3N2UyNTM5MjlkMmU1OGE2OTk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1604610134627,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
